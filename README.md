@@ -1,6 +1,8 @@
 # Web_Tech-Project-Flood-Aid-Hub-
 Flood Aid Hub is a comprehensive crowdfunding platform designed to facilitate the organization and distribution of relief efforts during flood disasters. This web application allows users to manage and contribute to campaigns aimed at providing essential relief items to affected communities.
+
 Key Features:
+
 1.User Authentication:
 Secure sign-up and sign-in functionality for users and administrators.
 Admin-specific login with access to campaign and user management features.
